@@ -74,10 +74,11 @@ local SL_CustomPrefs =
 			THEME:GetString("ThemePrefs", "Hearts"),
 			THEME:GetString("ThemePrefs", "Arrows"),
 			THEME:GetString("ThemePrefs", "Bears"),
+			THEME:GetString("ThemePrefs", "Pusheen"),
 			THEME:GetString("ThemePrefs", "Ducks"),
 			THEME:GetString("ThemePrefs", "Gay"),
 		},
-		Values  = { "Hearts", "Arrows", "Bears", "Ducks", "Gay" },
+		Values  = { "Hearts", "Arrows", "Bears", "Pusheen", "Ducks", "Gay" },
 	},
 	RainbowMode = {
 		Default = false,
