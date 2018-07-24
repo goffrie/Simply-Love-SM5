@@ -1,7 +1,7 @@
 local songs = {
 	Arrows = "cloud break (loop).ogg",
 	Bears = "crystalis (loop).ogg",
-	Pusheen = "cloud break (loop).ogg",
+	Pusheen = "bakercat.ogg",
 	Hearts = "feel (loop).ogg",
 	Ducks = "Xuxa fami VRC6 (loop).ogg",
 	Gay = "Mystical Wheelbarrow Journey (loop).ogg",
